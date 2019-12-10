@@ -2,7 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Ertan.Kanter.Repository;
 using ErtanKanter.DAL;
+using ErtanKanter.Manager;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -27,6 +29,7 @@ namespace ErtanKanter.CoreService
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<ArticleContext>(opts => opts.UseSqlServer(Configuration["ConnectionString:ArticleDB"]));
+            services.AddScoped<IDataRepository<Article>, ArticleManager>();
             services.AddControllers();
         }
 

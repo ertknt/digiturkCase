@@ -14,7 +14,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Ertan.Kanter.Repository\Ertan.Kanter.Repository.csproj" />
     <ProjectReference Include="..\ErtanKanter.DAL\ErtanKanter.DAL.csproj" />
+    <ProjectReference Include="..\ErtanKanter.Manager\ErtanKanter.Manager.csproj" />
   </ItemGroup>
 
   <ItemGroup>

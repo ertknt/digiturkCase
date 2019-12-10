@@ -1269,6 +1269,16 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "Ertan.Kanter.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Ertan.Kanter.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ertan.Kanter.Repository.dll": {}
+        }
+      },
       "ErtanKanter.DAL/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -1282,6 +1292,20 @@
         },
         "runtime": {
           "bin/placeholder/ErtanKanter.DAL.dll": {}
+        }
+      },
+      "ErtanKanter.Manager/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Ertan.Kanter.Repository": "1.0.0",
+          "ErtanKanter.DAL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ErtanKanter.Manager.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ErtanKanter.Manager.dll": {}
         }
       }
     }
@@ -4921,15 +4945,27 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
+    "Ertan.Kanter.Repository/1.0.0": {
+      "type": "project",
+      "path": "../Ertan.Kanter.Repository/Ertan.Kanter.Repository.csproj",
+      "msbuildProject": "../Ertan.Kanter.Repository/Ertan.Kanter.Repository.csproj"
+    },
     "ErtanKanter.DAL/1.0.0": {
       "type": "project",
       "path": "../ErtanKanter.DAL/ErtanKanter.DAL.csproj",
       "msbuildProject": "../ErtanKanter.DAL/ErtanKanter.DAL.csproj"
+    },
+    "ErtanKanter.Manager/1.0.0": {
+      "type": "project",
+      "path": "../ErtanKanter.Manager/ErtanKanter.Manager.csproj",
+      "msbuildProject": "../ErtanKanter.Manager/ErtanKanter.Manager.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Ertan.Kanter.Repository >= 1.0.0",
       "ErtanKanter.DAL >= 1.0.0",
+      "ErtanKanter.Manager >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 3.1.0",
       "Microsoft.EntityFrameworkCore.Relational >= 3.1.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.0"
@@ -4965,8 +5001,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
+            "C:\\Users\\a\\Desktop\\digiturkCase\\Ertan.Kanter.Repository\\Ertan.Kanter.Repository.csproj": {
+              "projectPath": "C:\\Users\\a\\Desktop\\digiturkCase\\Ertan.Kanter.Repository\\Ertan.Kanter.Repository.csproj"
+            },
             "C:\\Users\\a\\Desktop\\digiturkCase\\ErtanKanter.DAL\\ErtanKanter.DAL.csproj": {
               "projectPath": "C:\\Users\\a\\Desktop\\digiturkCase\\ErtanKanter.DAL\\ErtanKanter.DAL.csproj"
+            },
+            "C:\\Users\\a\\Desktop\\digiturkCase\\ErtanKanter.Manager\\ErtanKanter.Manager.csproj": {
+              "projectPath": "C:\\Users\\a\\Desktop\\digiturkCase\\ErtanKanter.Manager\\ErtanKanter.Manager.csproj"
             }
           }
         }
