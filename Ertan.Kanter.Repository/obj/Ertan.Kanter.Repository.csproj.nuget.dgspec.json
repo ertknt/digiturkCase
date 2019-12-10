@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\a\\Desktop\\digiturkCase\\ErtanKanter.DAL\\ErtanKanter.DAL.csproj": {}
+    "C:\\Users\\a\\Desktop\\digiturkCase\\Ertan.Kanter.Repository\\Ertan.Kanter.Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\a\\Desktop\\digiturkCase\\ErtanKanter.DAL\\ErtanKanter.DAL.csproj": {
+    "C:\\Users\\a\\Desktop\\digiturkCase\\Ertan.Kanter.Repository\\Ertan.Kanter.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a\\Desktop\\digiturkCase\\ErtanKanter.DAL\\ErtanKanter.DAL.csproj",
-        "projectName": "ErtanKanter.DAL",
-        "projectPath": "C:\\Users\\a\\Desktop\\digiturkCase\\ErtanKanter.DAL\\ErtanKanter.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\a\\Desktop\\digiturkCase\\Ertan.Kanter.Repository\\Ertan.Kanter.Repository.csproj",
+        "projectName": "Ertan.Kanter.Repository",
+        "projectPath": "C:\\Users\\a\\Desktop\\digiturkCase\\Ertan.Kanter.Repository\\Ertan.Kanter.Repository.csproj",
         "packagesPath": "C:\\Users\\a\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a\\Desktop\\digiturkCase\\ErtanKanter.DAL\\obj\\",
+        "outputPath": "C:\\Users\\a\\Desktop\\digiturkCase\\Ertan.Kanter.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -40,26 +40,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[3.1.0, )"
-            },
-            "Microsoft.EntityFrameworkCore.Relational": {
-              "target": "Package",
-              "version": "[3.1.0, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[3.1.0, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[3.1.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

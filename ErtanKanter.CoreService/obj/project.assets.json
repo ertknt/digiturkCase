@@ -4942,11 +4942,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a\\Desktop\\Ertan Kanter Core Servis\\ErtanKanter\\ErtanKanter.CoreService\\ErtanKanter.CoreService.csproj",
+      "projectUniqueName": "C:\\Users\\a\\Desktop\\digiturkCase\\ErtanKanter.CoreService\\ErtanKanter.CoreService.csproj",
       "projectName": "ErtanKanter.CoreService",
-      "projectPath": "C:\\Users\\a\\Desktop\\Ertan Kanter Core Servis\\ErtanKanter\\ErtanKanter.CoreService\\ErtanKanter.CoreService.csproj",
+      "projectPath": "C:\\Users\\a\\Desktop\\digiturkCase\\ErtanKanter.CoreService\\ErtanKanter.CoreService.csproj",
       "packagesPath": "C:\\Users\\a\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\a\\Desktop\\Ertan Kanter Core Servis\\ErtanKanter\\ErtanKanter.CoreService\\obj\\",
+      "outputPath": "C:\\Users\\a\\Desktop\\digiturkCase\\ErtanKanter.CoreService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4965,8 +4965,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\a\\Desktop\\Ertan Kanter Core Servis\\ErtanKanter\\ErtanKanter.DAL\\ErtanKanter.DAL.csproj": {
-              "projectPath": "C:\\Users\\a\\Desktop\\Ertan Kanter Core Servis\\ErtanKanter\\ErtanKanter.DAL\\ErtanKanter.DAL.csproj"
+            "C:\\Users\\a\\Desktop\\digiturkCase\\ErtanKanter.DAL\\ErtanKanter.DAL.csproj": {
+              "projectPath": "C:\\Users\\a\\Desktop\\digiturkCase\\ErtanKanter.DAL\\ErtanKanter.DAL.csproj"
             }
           }
         }

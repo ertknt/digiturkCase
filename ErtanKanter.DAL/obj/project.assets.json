@@ -4958,11 +4958,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a\\Desktop\\Ertan Kanter Core Servis\\ErtanKanter\\ErtanKanter.DAL\\ErtanKanter.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\a\\Desktop\\digiturkCase\\ErtanKanter.DAL\\ErtanKanter.DAL.csproj",
       "projectName": "ErtanKanter.DAL",
-      "projectPath": "C:\\Users\\a\\Desktop\\Ertan Kanter Core Servis\\ErtanKanter\\ErtanKanter.DAL\\ErtanKanter.DAL.csproj",
+      "projectPath": "C:\\Users\\a\\Desktop\\digiturkCase\\ErtanKanter.DAL\\ErtanKanter.DAL.csproj",
       "packagesPath": "C:\\Users\\a\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\a\\Desktop\\Ertan Kanter Core Servis\\ErtanKanter\\ErtanKanter.DAL\\obj\\",
+      "outputPath": "C:\\Users\\a\\Desktop\\digiturkCase\\ErtanKanter.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
