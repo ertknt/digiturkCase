@@ -1,0 +1,8 @@
+C:\Users\a\Desktop\digiturkCase\Ertan.Kanter.Repository\bin\Debug\netcoreapp3.1\Ertan.Kanter.Repository.deps.json
+C:\Users\a\Desktop\digiturkCase\Ertan.Kanter.Repository\bin\Debug\netcoreapp3.1\Ertan.Kanter.Repository.dll
+C:\Users\a\Desktop\digiturkCase\Ertan.Kanter.Repository\bin\Debug\netcoreapp3.1\Ertan.Kanter.Repository.pdb
+C:\Users\a\Desktop\digiturkCase\Ertan.Kanter.Repository\obj\Debug\netcoreapp3.1\Ertan.Kanter.Repository.csprojAssemblyReference.cache
+C:\Users\a\Desktop\digiturkCase\Ertan.Kanter.Repository\obj\Debug\netcoreapp3.1\Ertan.Kanter.Repository.AssemblyInfoInputs.cache
+C:\Users\a\Desktop\digiturkCase\Ertan.Kanter.Repository\obj\Debug\netcoreapp3.1\Ertan.Kanter.Repository.AssemblyInfo.cs
+C:\Users\a\Desktop\digiturkCase\Ertan.Kanter.Repository\obj\Debug\netcoreapp3.1\Ertan.Kanter.Repository.dll
+C:\Users\a\Desktop\digiturkCase\Ertan.Kanter.Repository\obj\Debug\netcoreapp3.1\Ertan.Kanter.Repository.pdb
