@@ -1,4 +1,5 @@
 Sorular:
+
 -Projede kullandığınız tasarım desenleri hangileridir? Bu desenleri neden kullandınız?
   Projede repository tasarım deseni kullandım. Bu deseni projede kullanılması gerektiği için kullandım.
 
