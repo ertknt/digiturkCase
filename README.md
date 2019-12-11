@@ -1,4 +1,5 @@
-Sorular:
+                                                  Sorular
+________________________________________________________________________________________________________________________________________
 
 -Projede kullandığınız tasarım desenleri hangileridir? Bu desenleri neden kullandınız?
   
