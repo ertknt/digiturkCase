@@ -22,3 +22,37 @@ Sorular:
     
     
    
+__________________________________________________________________________________________________________________________________________
+
+
+                                    API kullanım dökümantasyonu
+                                    
+string baseUrl = "localhost:xxxxx/"
+  1.) "baseUrl" + api/article/list => bütün makaleleri listeler
+  
+  2.) "baseUrl" + api/article/getsingle/{id} => Idsi verilen makaleyi döndürür.(kayıt bulunamaması durumunda NotFound("Gelen parametreye ait makale bulunamadı!") döner. )
+  
+  3.) "baseUrl" + api/article/post => makale ekler. Model olarak [FromBody] aşağıdaki şekilde bir obje ister.
+        {
+          "ImagePath": "test3.jpg",
+          "Subject": "Test 3 Makale",
+          "Content": "Test 3 İçerik",
+          "Date" : "2019-10-12",
+          "Author": "Ertan Kanter",
+          "IsActive" : true
+        }
+        
+  4.) "baseUrl" + api/article/update/{id} => Idsi verilen makaleyi günceller. Model olarak [FromBody] aşağıdaki şekilde bir obje ister.
+        {
+          "ImagePath": "test3.jpg",
+          "Subject": "Test 3 Makale",
+          "Content": "Test 3 İçerik",
+          "Date" : "2019-10-12",
+          "Author": "Ertan Kanter",
+          "IsActive" : true
+        }
+        
+  5.) "baseUrl" + api/article/delete/{id} => Idsi verilen makaleyi siler.
+  
+  6.) "baseUrl" + api/article/search/{data} => girilen parametreye göre filtrelenen makalelerin listesini döner.  
+  
