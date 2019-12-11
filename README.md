@@ -27,7 +27,8 @@ ________________________________________________________________________________
 
                                     API kullanım dökümantasyonu
                                     
-string baseUrl = "localhost:xxxxx/"
+string baseUrl = "http://localhost:xxxxx/"
+
   1.) "baseUrl" + api/article/list => bütün makaleleri listeler
   
   2.) "baseUrl" + api/article/getsingle/{id} => Idsi verilen makaleyi döndürür.(kayıt bulunamaması durumunda NotFound("Gelen parametreye ait makale bulunamadı!") döner. )
