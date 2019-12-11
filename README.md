@@ -18,7 +18,7 @@ Sorular:
 
 -Eklemek istediğiniz bir yorumunuz var mı?
 
-
+  Mülakattan önce böyle bir case verilmesi güzel bir uygulama olmuş. Başlangıç düzeyince bilgim olan bir teknolojiyi kullanarak küçük bir uygulama yapma şansı edindim bu sayede ASP.NET Core teknolojisini tanımış oldum. Teşekkür ederim.
     
     
    
