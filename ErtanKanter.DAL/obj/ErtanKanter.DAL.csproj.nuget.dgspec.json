@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\a\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.DAL\\ErtanKanter.DAL.csproj": {}
+    "C:\\Users\\a\\source\\repos\\ertknt\\digiturkCase\\ErtanKanter.DAL\\ErtanKanter.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\a\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.DAL\\ErtanKanter.DAL.csproj": {
+    "C:\\Users\\a\\source\\repos\\ertknt\\digiturkCase\\ErtanKanter.DAL\\ErtanKanter.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.DAL\\ErtanKanter.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\a\\source\\repos\\ertknt\\digiturkCase\\ErtanKanter.DAL\\ErtanKanter.DAL.csproj",
         "projectName": "ErtanKanter.DAL",
-        "projectPath": "C:\\Users\\a\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.DAL\\ErtanKanter.DAL.csproj",
+        "projectPath": "C:\\Users\\a\\source\\repos\\ertknt\\digiturkCase\\ErtanKanter.DAL\\ErtanKanter.DAL.csproj",
         "packagesPath": "C:\\Users\\a\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.DAL\\obj\\",
+        "outputPath": "C:\\Users\\a\\source\\repos\\ertknt\\digiturkCase\\ErtanKanter.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

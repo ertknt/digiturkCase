@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\a\\Source\\Repos\\ertknt\\digiturkCase\\Ertan.Kanter.Repository\\Ertan.Kanter.Repository.csproj": {}
+    "C:\\Users\\a\\source\\repos\\ertknt\\digiturkCase\\Ertan.Kanter.Repository\\Ertan.Kanter.Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\a\\Source\\Repos\\ertknt\\digiturkCase\\Ertan.Kanter.Repository\\Ertan.Kanter.Repository.csproj": {
+    "C:\\Users\\a\\source\\repos\\ertknt\\digiturkCase\\Ertan.Kanter.Repository\\Ertan.Kanter.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a\\Source\\Repos\\ertknt\\digiturkCase\\Ertan.Kanter.Repository\\Ertan.Kanter.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\a\\source\\repos\\ertknt\\digiturkCase\\Ertan.Kanter.Repository\\Ertan.Kanter.Repository.csproj",
         "projectName": "Ertan.Kanter.Repository",
-        "projectPath": "C:\\Users\\a\\Source\\Repos\\ertknt\\digiturkCase\\Ertan.Kanter.Repository\\Ertan.Kanter.Repository.csproj",
+        "projectPath": "C:\\Users\\a\\source\\repos\\ertknt\\digiturkCase\\Ertan.Kanter.Repository\\Ertan.Kanter.Repository.csproj",
         "packagesPath": "C:\\Users\\a\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a\\Source\\Repos\\ertknt\\digiturkCase\\Ertan.Kanter.Repository\\obj\\",
+        "outputPath": "C:\\Users\\a\\source\\repos\\ertknt\\digiturkCase\\Ertan.Kanter.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
