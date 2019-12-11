@@ -12,7 +12,7 @@ Sorular:
 
 -Daha geniş vaktiniz olsaydı projeye neler eklemek isterdiniz?
   
-  Daha geniş bir vaktim olsaydı, projede istenen blog veritabanının tamamını tasarlardım. Ayrıca API kısmına authantication ve token mekanizması oluştururdum. Bunları oluşturduktan sonra React.JS veya Vue.JS gibi (veya Asp.Net Mvc projesi olacaksa Angular kütüphanesini) günümüzde avantajlar sağlayan Javascript frameworklerinden birini kullanarak API'ı tüketebileceğim bir UI tasarlardım.
+  Daha geniş bir vaktim olsaydı, projede istenen blog veritabanının tamamını tasarlardım. Ayrıca API kısmına authantication ve token mekanizması oluştururdum. API metotları için kendime ait özel dönüş modeli tasarlardım. Bunları oluşturduktan sonra React.JS veya Vue.JS gibi (veya Asp.Net Mvc projesi olacaksa Angular kütüphanesini) günümüzde avantajlar sağlayan Javascript frameworklerinden birini kullanarak API'ı tüketebileceğim bir UI tasarlardım.
 
 
 
