@@ -8,3 +8,13 @@ D:\Users\Freud\Source\Repos\ertknt\digiturkCase\ErtanKanter.DAL\obj\Debug\netcor
 D:\Users\Freud\Source\Repos\ertknt\digiturkCase\ErtanKanter.DAL\obj\Debug\netcoreapp3.0\ErtanKanter.DAL.AssemblyInfo.cs
 D:\Users\Freud\Source\Repos\ertknt\digiturkCase\ErtanKanter.DAL\obj\Debug\netcoreapp3.0\ErtanKanter.DAL.dll
 D:\Users\Freud\Source\Repos\ertknt\digiturkCase\ErtanKanter.DAL\obj\Debug\netcoreapp3.0\ErtanKanter.DAL.pdb
+C:\Users\a\Source\Repos\ertknt\digiturkCase\ErtanKanter.DAL\bin\Debug\netcoreapp3.0\ErtanKanter.DAL.deps.json
+C:\Users\a\Source\Repos\ertknt\digiturkCase\ErtanKanter.DAL\bin\Debug\netcoreapp3.0\ErtanKanter.DAL.runtimeconfig.json
+C:\Users\a\Source\Repos\ertknt\digiturkCase\ErtanKanter.DAL\bin\Debug\netcoreapp3.0\ErtanKanter.DAL.runtimeconfig.dev.json
+C:\Users\a\Source\Repos\ertknt\digiturkCase\ErtanKanter.DAL\bin\Debug\netcoreapp3.0\ErtanKanter.DAL.dll
+C:\Users\a\Source\Repos\ertknt\digiturkCase\ErtanKanter.DAL\bin\Debug\netcoreapp3.0\ErtanKanter.DAL.pdb
+C:\Users\a\Source\Repos\ertknt\digiturkCase\ErtanKanter.DAL\obj\Debug\netcoreapp3.0\ErtanKanter.DAL.csprojAssemblyReference.cache
+C:\Users\a\Source\Repos\ertknt\digiturkCase\ErtanKanter.DAL\obj\Debug\netcoreapp3.0\ErtanKanter.DAL.AssemblyInfoInputs.cache
+C:\Users\a\Source\Repos\ertknt\digiturkCase\ErtanKanter.DAL\obj\Debug\netcoreapp3.0\ErtanKanter.DAL.AssemblyInfo.cs
+C:\Users\a\Source\Repos\ertknt\digiturkCase\ErtanKanter.DAL\obj\Debug\netcoreapp3.0\ErtanKanter.DAL.dll
+C:\Users\a\Source\Repos\ertknt\digiturkCase\ErtanKanter.DAL\obj\Debug\netcoreapp3.0\ErtanKanter.DAL.pdb

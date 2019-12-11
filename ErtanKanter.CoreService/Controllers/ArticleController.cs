@@ -23,6 +23,7 @@ namespace ErtanKanter.CoreService.Controllers
         public IActionResult Get()
         {
             IEnumerable<Article> employees = _dataRepository.GetAll();
+
             return Ok(employees);
         }
 
@@ -45,11 +46,15 @@ namespace ErtanKanter.CoreService.Controllers
         {
             if (article == null)
             {
-                return BadRequest("Gelen modelboş olduğu için kayıt eklenemedi!");
+                return BadRequest("Gelen model boş olduğu için kayıt eklenemedi!");
             }
 
-            _dataRepository.Add(article);
-            return Ok("Makale Başarılı Şekilde Eklendi.");
+            int result = _dataRepository.Add(article);
+
+            if (result > 0)
+                return Ok("Makale Başarılı Şekilde Eklendi.");
+            else
+                return BadRequest("Kayıt eklenemedi!");
         }
 
         [Route("api/article/update/{id}")]
@@ -66,8 +71,13 @@ namespace ErtanKanter.CoreService.Controllers
                 return NotFound("Kayıt Bulunamadı!");
             }
 
-            _dataRepository.Update(articleToUpdate, article);
-            return Ok("Makale Başarılı Şekilde Güncellenmiştir.");
+            int result = _dataRepository.Update(articleToUpdate, article);
+
+            if (result > 0)
+                return Ok("Makale Başarılı Şekilde Güncellenmiştir.");
+            else
+                return BadRequest("Kayıt güncellenirken bir hata meydana geldi!");
+
         }
 
         [Route("api/article/delete/{id}")]
@@ -79,8 +89,14 @@ namespace ErtanKanter.CoreService.Controllers
                 return NotFound("Kayıt Bulunamadı!");
             }
 
-            _dataRepository.Delete(article);
-            return Ok("Kayıt Başarılı Şekilde Silinmiştir.");
+            int result = _dataRepository.Delete(article);
+
+            if (result > 0)
+                return Ok("Kayıt Başarılı Şekilde Silinmiştir.");
+            else
+                return BadRequest("Kayıt silinirken bir hata meydana geldi!");
+
+
         }
 
         [Route("api/article/search/{data}")]
@@ -92,6 +108,7 @@ namespace ErtanKanter.CoreService.Controllers
             {
                 return NotFound("Gelen parametreye ait makaleler bulunamadı!");
             }
+
             return Ok(article);
         }
     }

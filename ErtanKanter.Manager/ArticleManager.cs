@@ -26,13 +26,13 @@ namespace ErtanKanter.Manager
             return _ArticleContext.Articles.FirstOrDefault(e => e.Id == id);
         }
 
-        public void Add(Article entity)
+        public int Add(Article entity)
         {
             _ArticleContext.Articles.Add(entity);
-            _ArticleContext.SaveChanges();
+            return _ArticleContext.SaveChanges();
         }
 
-        public void Update(Article employee, Article entity)
+        public int Update(Article employee, Article entity)
         {
             employee.ImagePath = entity.ImagePath;
             employee.Subject = entity.Subject;
@@ -41,13 +41,14 @@ namespace ErtanKanter.Manager
             employee.Author = entity.Author;
             employee.IsActive = entity.IsActive;
 
-            _ArticleContext.SaveChanges();
+            return _ArticleContext.SaveChanges();
         }
 
-        public void Delete(Article employee)
+        public int Delete(Article employee)
         {
             _ArticleContext.Articles.Remove(employee);
-            _ArticleContext.SaveChanges();
+
+            return _ArticleContext.SaveChanges();
         }
     }
 }

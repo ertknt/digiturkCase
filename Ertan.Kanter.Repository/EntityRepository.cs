@@ -8,8 +8,8 @@ namespace Ertan.Kanter.Repository
     {
         IEnumerable<TEntity> GetAll();
         TEntity Get(long id);
-        void Add(TEntity entity);
-        void Update(TEntity dbEntity, TEntity entity);
-        void Delete(TEntity entity);
+        int Add(TEntity entity);
+        int Update(TEntity dbEntity, TEntity entity);
+        int Delete(TEntity entity);
     }
 }

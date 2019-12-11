@@ -50,6 +50,14 @@ namespace ErtanKanter.CoreService
             {
                 endpoints.MapControllers();
             });
+
+            
+            using (var serviceScope = app.ApplicationServices.GetService<IServiceScopeFactory>().CreateScope())
+            {
+                var context = serviceScope.ServiceProvider.GetRequiredService<ArticleContext>();
+                //context.Database.EnsureDeleted();
+                context.Database.EnsureCreated(); //uygulama baþladýðýnda veritabaný yoksa oluþturur.
+            }
         }
     }
 }

@@ -6,3 +6,11 @@ D:\Users\Freud\Source\Repos\ertknt\digiturkCase\Ertan.Kanter.Repository\obj\Debu
 D:\Users\Freud\Source\Repos\ertknt\digiturkCase\Ertan.Kanter.Repository\obj\Debug\netcoreapp3.0\Ertan.Kanter.Repository.AssemblyInfo.cs
 D:\Users\Freud\Source\Repos\ertknt\digiturkCase\Ertan.Kanter.Repository\obj\Debug\netcoreapp3.0\Ertan.Kanter.Repository.dll
 D:\Users\Freud\Source\Repos\ertknt\digiturkCase\Ertan.Kanter.Repository\obj\Debug\netcoreapp3.0\Ertan.Kanter.Repository.pdb
+C:\Users\a\Source\Repos\ertknt\digiturkCase\Ertan.Kanter.Repository\bin\Debug\netcoreapp3.0\Ertan.Kanter.Repository.deps.json
+C:\Users\a\Source\Repos\ertknt\digiturkCase\Ertan.Kanter.Repository\bin\Debug\netcoreapp3.0\Ertan.Kanter.Repository.dll
+C:\Users\a\Source\Repos\ertknt\digiturkCase\Ertan.Kanter.Repository\bin\Debug\netcoreapp3.0\Ertan.Kanter.Repository.pdb
+C:\Users\a\Source\Repos\ertknt\digiturkCase\Ertan.Kanter.Repository\obj\Debug\netcoreapp3.0\Ertan.Kanter.Repository.csprojAssemblyReference.cache
+C:\Users\a\Source\Repos\ertknt\digiturkCase\Ertan.Kanter.Repository\obj\Debug\netcoreapp3.0\Ertan.Kanter.Repository.AssemblyInfoInputs.cache
+C:\Users\a\Source\Repos\ertknt\digiturkCase\Ertan.Kanter.Repository\obj\Debug\netcoreapp3.0\Ertan.Kanter.Repository.AssemblyInfo.cs
+C:\Users\a\Source\Repos\ertknt\digiturkCase\Ertan.Kanter.Repository\obj\Debug\netcoreapp3.0\Ertan.Kanter.Repository.dll
+C:\Users\a\Source\Repos\ertknt\digiturkCase\Ertan.Kanter.Repository\obj\Debug\netcoreapp3.0\Ertan.Kanter.Repository.pdb

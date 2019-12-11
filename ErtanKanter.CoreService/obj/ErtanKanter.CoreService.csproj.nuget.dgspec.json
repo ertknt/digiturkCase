@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\Freud\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.CoreService\\ErtanKanter.CoreService.csproj": {}
+    "C:\\Users\\a\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.CoreService\\ErtanKanter.CoreService.csproj": {}
   },
   "projects": {
-    "D:\\Users\\Freud\\Source\\Repos\\ertknt\\digiturkCase\\Ertan.Kanter.Repository\\Ertan.Kanter.Repository.csproj": {
+    "C:\\Users\\a\\Source\\Repos\\ertknt\\digiturkCase\\Ertan.Kanter.Repository\\Ertan.Kanter.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Freud\\Source\\Repos\\ertknt\\digiturkCase\\Ertan.Kanter.Repository\\Ertan.Kanter.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\a\\Source\\Repos\\ertknt\\digiturkCase\\Ertan.Kanter.Repository\\Ertan.Kanter.Repository.csproj",
         "projectName": "Ertan.Kanter.Repository",
-        "projectPath": "D:\\Users\\Freud\\Source\\Repos\\ertknt\\digiturkCase\\Ertan.Kanter.Repository\\Ertan.Kanter.Repository.csproj",
-        "packagesPath": "C:\\Users\\Freud\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Freud\\Source\\Repos\\ertknt\\digiturkCase\\Ertan.Kanter.Repository\\obj\\",
+        "projectPath": "C:\\Users\\a\\Source\\Repos\\ertknt\\digiturkCase\\Ertan.Kanter.Repository\\Ertan.Kanter.Repository.csproj",
+        "packagesPath": "C:\\Users\\a\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a\\Source\\Repos\\ertknt\\digiturkCase\\Ertan.Kanter.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Freud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\a\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -50,29 +50,43 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Users\\Freud\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.CoreService\\ErtanKanter.CoreService.csproj": {
+    "C:\\Users\\a\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.CoreService\\ErtanKanter.CoreService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Freud\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.CoreService\\ErtanKanter.CoreService.csproj",
+        "projectUniqueName": "C:\\Users\\a\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.CoreService\\ErtanKanter.CoreService.csproj",
         "projectName": "ErtanKanter.CoreService",
-        "projectPath": "D:\\Users\\Freud\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.CoreService\\ErtanKanter.CoreService.csproj",
-        "packagesPath": "C:\\Users\\Freud\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Freud\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.CoreService\\obj\\",
+        "projectPath": "C:\\Users\\a\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.CoreService\\ErtanKanter.CoreService.csproj",
+        "packagesPath": "C:\\Users\\a\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.CoreService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Freud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\a\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -85,14 +99,14 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "D:\\Users\\Freud\\Source\\Repos\\ertknt\\digiturkCase\\Ertan.Kanter.Repository\\Ertan.Kanter.Repository.csproj": {
-                "projectPath": "D:\\Users\\Freud\\Source\\Repos\\ertknt\\digiturkCase\\Ertan.Kanter.Repository\\Ertan.Kanter.Repository.csproj"
+              "C:\\Users\\a\\Source\\Repos\\ertknt\\digiturkCase\\Ertan.Kanter.Repository\\Ertan.Kanter.Repository.csproj": {
+                "projectPath": "C:\\Users\\a\\Source\\Repos\\ertknt\\digiturkCase\\Ertan.Kanter.Repository\\Ertan.Kanter.Repository.csproj"
               },
-              "D:\\Users\\Freud\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.DAL\\ErtanKanter.DAL.csproj": {
-                "projectPath": "D:\\Users\\Freud\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.DAL\\ErtanKanter.DAL.csproj"
+              "C:\\Users\\a\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.DAL\\ErtanKanter.DAL.csproj": {
+                "projectPath": "C:\\Users\\a\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.DAL\\ErtanKanter.DAL.csproj"
               },
-              "D:\\Users\\Freud\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.Manager\\ErtanKanter.Manager.csproj": {
-                "projectPath": "D:\\Users\\Freud\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.Manager\\ErtanKanter.Manager.csproj"
+              "C:\\Users\\a\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.Manager\\ErtanKanter.Manager.csproj": {
+                "projectPath": "C:\\Users\\a\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.Manager\\ErtanKanter.Manager.csproj"
               }
             }
           }
@@ -139,6 +153,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -147,24 +179,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Users\\Freud\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.DAL\\ErtanKanter.DAL.csproj": {
+    "C:\\Users\\a\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.DAL\\ErtanKanter.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Freud\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.DAL\\ErtanKanter.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\a\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.DAL\\ErtanKanter.DAL.csproj",
         "projectName": "ErtanKanter.DAL",
-        "projectPath": "D:\\Users\\Freud\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.DAL\\ErtanKanter.DAL.csproj",
-        "packagesPath": "C:\\Users\\Freud\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Freud\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.DAL\\obj\\",
+        "projectPath": "C:\\Users\\a\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.DAL\\ErtanKanter.DAL.csproj",
+        "packagesPath": "C:\\Users\\a\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Freud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\a\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -217,29 +249,43 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Users\\Freud\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.Manager\\ErtanKanter.Manager.csproj": {
+    "C:\\Users\\a\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.Manager\\ErtanKanter.Manager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Freud\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.Manager\\ErtanKanter.Manager.csproj",
+        "projectUniqueName": "C:\\Users\\a\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.Manager\\ErtanKanter.Manager.csproj",
         "projectName": "ErtanKanter.Manager",
-        "projectPath": "D:\\Users\\Freud\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.Manager\\ErtanKanter.Manager.csproj",
-        "packagesPath": "C:\\Users\\Freud\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Freud\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.Manager\\obj\\",
+        "projectPath": "C:\\Users\\a\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.Manager\\ErtanKanter.Manager.csproj",
+        "packagesPath": "C:\\Users\\a\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.Manager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Freud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\a\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -252,11 +298,11 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "D:\\Users\\Freud\\Source\\Repos\\ertknt\\digiturkCase\\Ertan.Kanter.Repository\\Ertan.Kanter.Repository.csproj": {
-                "projectPath": "D:\\Users\\Freud\\Source\\Repos\\ertknt\\digiturkCase\\Ertan.Kanter.Repository\\Ertan.Kanter.Repository.csproj"
+              "C:\\Users\\a\\Source\\Repos\\ertknt\\digiturkCase\\Ertan.Kanter.Repository\\Ertan.Kanter.Repository.csproj": {
+                "projectPath": "C:\\Users\\a\\Source\\Repos\\ertknt\\digiturkCase\\Ertan.Kanter.Repository\\Ertan.Kanter.Repository.csproj"
               },
-              "D:\\Users\\Freud\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.DAL\\ErtanKanter.DAL.csproj": {
-                "projectPath": "D:\\Users\\Freud\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.DAL\\ErtanKanter.DAL.csproj"
+              "C:\\Users\\a\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.DAL\\ErtanKanter.DAL.csproj": {
+                "projectPath": "C:\\Users\\a\\Source\\Repos\\ertknt\\digiturkCase\\ErtanKanter.DAL\\ErtanKanter.DAL.csproj"
               }
             }
           }
@@ -279,12 +325,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

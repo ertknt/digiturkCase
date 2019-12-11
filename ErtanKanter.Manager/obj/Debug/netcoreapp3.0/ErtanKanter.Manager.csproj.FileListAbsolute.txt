@@ -11,3 +11,16 @@ D:\Users\Freud\Source\Repos\ertknt\digiturkCase\ErtanKanter.Manager\obj\Debug\ne
 D:\Users\Freud\Source\Repos\ertknt\digiturkCase\ErtanKanter.Manager\obj\Debug\netcoreapp3.0\ErtanKanter.Manager.csproj.CopyComplete
 D:\Users\Freud\Source\Repos\ertknt\digiturkCase\ErtanKanter.Manager\obj\Debug\netcoreapp3.0\ErtanKanter.Manager.dll
 D:\Users\Freud\Source\Repos\ertknt\digiturkCase\ErtanKanter.Manager\obj\Debug\netcoreapp3.0\ErtanKanter.Manager.pdb
+C:\Users\a\Source\Repos\ertknt\digiturkCase\ErtanKanter.Manager\bin\Debug\netcoreapp3.0\ErtanKanter.Manager.deps.json
+C:\Users\a\Source\Repos\ertknt\digiturkCase\ErtanKanter.Manager\bin\Debug\netcoreapp3.0\ErtanKanter.Manager.dll
+C:\Users\a\Source\Repos\ertknt\digiturkCase\ErtanKanter.Manager\bin\Debug\netcoreapp3.0\ErtanKanter.Manager.pdb
+C:\Users\a\Source\Repos\ertknt\digiturkCase\ErtanKanter.Manager\bin\Debug\netcoreapp3.0\Ertan.Kanter.Repository.dll
+C:\Users\a\Source\Repos\ertknt\digiturkCase\ErtanKanter.Manager\bin\Debug\netcoreapp3.0\ErtanKanter.DAL.dll
+C:\Users\a\Source\Repos\ertknt\digiturkCase\ErtanKanter.Manager\bin\Debug\netcoreapp3.0\Ertan.Kanter.Repository.pdb
+C:\Users\a\Source\Repos\ertknt\digiturkCase\ErtanKanter.Manager\bin\Debug\netcoreapp3.0\ErtanKanter.DAL.pdb
+C:\Users\a\Source\Repos\ertknt\digiturkCase\ErtanKanter.Manager\obj\Debug\netcoreapp3.0\ErtanKanter.Manager.csprojAssemblyReference.cache
+C:\Users\a\Source\Repos\ertknt\digiturkCase\ErtanKanter.Manager\obj\Debug\netcoreapp3.0\ErtanKanter.Manager.AssemblyInfoInputs.cache
+C:\Users\a\Source\Repos\ertknt\digiturkCase\ErtanKanter.Manager\obj\Debug\netcoreapp3.0\ErtanKanter.Manager.AssemblyInfo.cs
+C:\Users\a\Source\Repos\ertknt\digiturkCase\ErtanKanter.Manager\obj\Debug\netcoreapp3.0\ErtanKanter.Manager.csproj.CopyComplete
+C:\Users\a\Source\Repos\ertknt\digiturkCase\ErtanKanter.Manager\obj\Debug\netcoreapp3.0\ErtanKanter.Manager.dll
+C:\Users\a\Source\Repos\ertknt\digiturkCase\ErtanKanter.Manager\obj\Debug\netcoreapp3.0\ErtanKanter.Manager.pdb
